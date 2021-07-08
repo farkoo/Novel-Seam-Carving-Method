@@ -31,6 +31,7 @@ def find_seam(img, energy):
 
   return minval, minIndex, sOfIJ
 
+
 def remove_seam(img, minIndex, sOfIJ):
   rows = img.shape[0]
   columns = img.shape[1]
