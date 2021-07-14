@@ -13,3 +13,5 @@ Download the pre-trained model [here](https://drive.google.com/file/d/1Sc7dgXCZj
 
 ## Use depth map
 I assumed that the depth map is given as input to the system.
+
+## Create energy map: GM + SM + DM ???
