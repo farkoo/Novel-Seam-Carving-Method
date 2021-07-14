@@ -1,6 +1,7 @@
 # Novel seam carving method
 
 ## Create gradient map
+I used [Bi-Directional Cascade Network for Perceptual Edge Detection](https://arxiv.org/abs/1902.10903), CVPR 2019 and [this](https://github.com/pkuCactus/BDCN) pytorch implementation.
 Download the pre-trained model [here](https://drive.google.com/file/d/1CmDMypSlLM6EAvOt5yjwUQ7O5w-xCm1n/view?usp=sharing).
 
 
