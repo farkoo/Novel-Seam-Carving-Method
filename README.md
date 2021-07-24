@@ -30,5 +30,6 @@ I assumed that the depth map is given as input to the system.
 
 Original image | 50 % width reduction | 60 % | 70 % | 80 % | 90 %
 :-------------:|:--------------------:|:----:|:----:|:----:|:----:
-<img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy.png" width=200 height=160>  |
+<img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/images/teddy-v.png
+">  | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy.png">  | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy_60.png"> | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy_70.png"> | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy_80.png">  | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy_90.png">   
 
