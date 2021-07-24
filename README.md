@@ -1,5 +1,7 @@
 # Novel seam carving method
 
+# My method steps:
+
 ## 1. Pre-scaling
 
 ## 2. Create energy map
@@ -28,7 +30,29 @@ I assumed that the depth map is given as input to the system.
 
 # Results
 
+<p align=center>
+
 Original image | 50 % width reduction | 60 % | 70 % | 80 % | 90 %
 :-------------:|:--------------------:|:----:|:----:|:----:|:----:
 <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/images/teddy-v.png" width=200 height=170>  | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy.png" width=100 height=170>  | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy_60.png" width=80 height=170> | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy_70.png" width=60 height=170> | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy_80.png" width=40 height=170>  | <img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy_90.png" width=20 height=170>   
+
+</p>
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/novel-seam-carving-method/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
+
 
