@@ -27,4 +27,8 @@ I assumed that the depth map is given as input to the system.
 ## 6. Post-scaling
 
 # Results
+
 Original image | 50 % width reduction | 60 % | 70 % | 80 % | 90 %
+:-------------:|:--------------------:|:----:|:----:|:----:|:----:
+<img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/result/teddy.png" width=200 height=160>  |
+
