@@ -3,6 +3,7 @@
 # My method steps:
 
 ## 1. Pre-scaling
+<img src="https://github.com/farkoo/novel-seam-carving-method/blob/master/dia3.png">
 
 ## 2. Create energy map
 
